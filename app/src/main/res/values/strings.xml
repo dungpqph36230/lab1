@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab1_PH36230</string>
+    <string name="content">Android - Application Components: \n
+                            1.Ativiti \n
+                            2. Service \n
+                            3. ContentProvider \n
+                            4. BroadcastReceive</string>
+    <string name="content_01">Cac thanh phan co ban trong Android: \n
+                            1.Ativiti \n
+                            2. Service \n
+                            3. ContentProvider \n
+                            4. BroadcastReceive</string>
+</resources>
